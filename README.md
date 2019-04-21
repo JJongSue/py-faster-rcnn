@@ -1,5 +1,5 @@
 # Faster R-CNN on COCO
-This example provides a minimal (2k lines) and faithful implementation of the
+This code provides a minimal (2k lines) and faithful implementation of the
 following object detection / instance segmentation papers:
 
 + [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
